@@ -1,0 +1,11 @@
+Week 1 
+
+lintcode461 Find kth smallest number in an unsorted array (quickselect)
+
+leetcode53: https://leetcode.com/problems/maximum-subarray/ 
+
+leetcode153: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ 
+
+leetcode241: https://leetcode.com/problems/different-ways-to-add-parentheses/ 
+
+leetcode932: https://leetcode.com/problems/beautiful-array/ 
